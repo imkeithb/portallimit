@@ -1,0 +1,9 @@
+{
+  "name": "PortalLimit",
+  "version_number": "0.1.3",
+  "website_url": "",
+  "description": "Portal Limit and Discovery: server-enforced portal limits, global portal counts, and discovery-locked portals for Valheim.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
